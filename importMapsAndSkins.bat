@@ -1,5 +1,5 @@
 @echo off
-set sourceDir=D:\toImport
+set sourceDir=C:\Users\User\Documents\ImportLater
 
 for %%f in ("%sourceDir%\*") do (
     start "" "%%f"
